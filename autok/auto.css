@@ -27,7 +27,7 @@
     color:green;
 }
 
-body{
+#main{
   background-image: url(hatter.jpg);
   background-repeat: repeat;
   background-size: cover;
