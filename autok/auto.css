@@ -26,3 +26,9 @@
     text-align: right;
     color:green;
 }
+
+body{
+  background-image: url(hatter.jpg);
+  background-repeat: repeat;
+  background-size: cover;
+}
